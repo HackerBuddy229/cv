@@ -1,17 +1,26 @@
-## *Cv*
+### *Curriculum vitae*
+
+
 # Rasmus Bengtsson
 
 
 Rasmus Bengtsson, 20020831-4492
+
 0720229540, rasmus@beryllium-tech.eu
+
 linkedin[...]
 
-Aktuell resumé
+## Aktuell resumé
 
-Aktuella kunskaper
 
-Tidigare erfarenhet
+## Aktuella kunskaper
 
-Relevata utbildningar
 
-Certifieringar
+## Tidigare erfarenhet
+
+
+## Relevata utbildningar
+
+
+
+## Certifieringar
