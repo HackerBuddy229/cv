@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.22)  21 FEB 2022 15:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.22)  21 FEB 2022 15:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/hackerbuddy/repos/cv/cv/cv-se.tex
-(/home/hackerbuddy/repos/cv/cv/cv-se.tex
+**/home/hackerbuddy/repos/cv/cover-letter/cover-letter.tex
+(/home/hackerbuddy/repos/cv/cover-letter/cover-letter.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -164,27 +164,27 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count270
 \l__pdf_internal_box=\box50
-) (./cv-se.aux)
-\openout1 = `cv-se.aux'.
+) (./cover-letter.aux)
+\openout1 = `cover-letter.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -222,8 +222,8 @@ LaTeX Font Info:    ... okay on input line 13.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 13.
-Package hyperref Info: Link coloring OFF on input line 13.
+(lastpage)             ! on input line 16.
+Package hyperref Info: Link coloring OFF on input line 16.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
@@ -233,24 +233,69 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count271
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
- (./cv-se.out) (./cv-se.out)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
+ (./cover-letter.out) (./cover-letter.out)
 \@outlinefile=\write3
-\openout3 = `cv-se.out'.
+\openout3 = `cover-letter.out'.
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 20--21
+Overfull \hbox (15.0pt too wide) in paragraph at lines 21--22
 [][] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 32.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 32.
+(Font)              <5> on input line 33.
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--63
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--76
 
  []
 
@@ -258,23 +303,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--63
 AED: lastpage setting LastPage
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv-se.aux)
-Package rerunfilecheck Info: File `cv-se.out' has not changed.
-(rerunfilecheck)             Checksum: FF88B60B81BCD5BD3EED2FC76E9454FD;561.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cover-letter.aux)
+Package rerunfilecheck Info: File `cover-letter.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 7995 strings out of 478353
- 125828 string characters out of 5854635
- 443348 words of memory out of 5000000
- 26065 multiletter control sequences out of 15000+600000
- 404678 words of font info for 31 fonts, out of 8000000 for 9000
+ 7984 strings out of 478353
+ 125868 string characters out of 5854635
+ 442392 words of memory out of 5000000
+ 26059 multiletter control sequences out of 15000+600000
+ 404641 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,63p,266b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on cv-se.pdf (1 page, 62605 bytes).
+ 60i,5n,63p,457b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on cover-letter.pdf (1 page, 66586 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

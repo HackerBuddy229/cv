@@ -1,0 +1,78 @@
+\documentclass[a4paper]{article}
+
+\usepackage[a4paper, hmargin=25mm, vmargin=30mm, top=20mm]{geometry} % Use A4 paper and set margins
+
+\usepackage{fancyhdr} % Customize the header and footer
+
+\usepackage{lastpage} % Required for calculating the number of pages in the document
+
+\usepackage{hyperref} % Colors for links, text and headings
+
+\setcounter{secnumdepth}{0} % Suppress section numbering
+
+\newcommand{\company}{Volvo AB}
+\newcommand{\position}{utvecklare }
+
+\begin{document}
+% title -----------------------------------------------------
+
+\Large{\textbf{Rasmus Bengtsson - Personligt brev}}
+
+\rule{\textwidth}{4px}
+
+
+
+% misc info ---------------------------------------------
+\normalsize{
+\parbox{0.5\textwidth}{ % First block
+\begin{tabbing} % Enables tabbing
+\hspace{3cm} \= \hspace{4cm} \= \kill % Spacing within the block
+{\bf Address:} \> Klintvägen 89,\\ % Address line 1
+\> Luleå, 97335 \\ % Address line 2
+{\bf Personnumer:} \> 20020831-4492 % Date of birth 
+\end{tabbing}}
+\hfill % Horizontal space between the two blocks
+\parbox{0.5\textwidth}{ % Second block
+\begin{tabbing} % Enables tabbing
+\hspace{3cm} \= \hspace{4cm} \= \kill % Spacing within the block
+{\bf Telefonnummer:} \> +46720229540 \\ % Mobile phone
+{\bf Email:} \> \href{mailto:rasmus@beryllium-tech.eu}{rasmus@beryllium-tech.eu} \\ % Email address
+{\bf LinkedIn:} \> \href{https://www.linkedin.com/in/rasmus-b-5b1019126/}{linkedin.com/in/rasmus-b-5b1019126/} \\ % Linkedin
+{\bf Github:} \> \href{https://www.github.com/hackerbuddy229}{github.com/hackerbuddy229} % GITHUB
+\end{tabbing}}}
+
+
+
+\rule{0.5\textwidth}{2px}
+
+% brödtext --------------------------------
+\vspace{10px}{}
+\noindent\large{
+Hej. \\
+
+\noindent
+Mitt namn är Rasmus Bengtsson och jag söker härmed tjänsten som \position hos \company. Jag studerar idag på Luleå Universitet men kommer ursprungligen från Göteborg. \\
+\\
+Jag har under många år utvecklat programmerings och produktutvecklingserfarenheter i både privata och utbildningssammanhang som jag tror gör mig ytterst passande för denna rollen. \\
+\\
+Jag har redan en bred erfarenhet av C\# och .NET, Jag började att lära mig själv C\# i början på högstadiet och vidare studier på gymnasiet och Luleå Universitet har gett mig en djup förståelse för programmering. I .NET har jag lite djupare kunskap i-bland annat WebAPI, Entity Framework, Identity-ramverket och Blazor. \\
+\\
+Förutom C\# och .NET har jag erfarenhet av en rad andra plattformar och språk (t.ex. Rust och JavaScript), även om jag anser att det är i C\# jag är som mest effektiv. Jag arbetar helst med enhetstester/TDD och använder mig gärna av arkitektur \& patterns när jag skriver kod (t.ex. SOLID). \\
+\\
+Jag har erfarenhet att arbeta enligt agila metoder så som Scrum och Kanban. Som gymnasiearbete byggde jag ett neuralt nätverket i C\# med syfte att kunna förutspå upp och nedgångar på en valutabörs. Ta gärna en titt på min github för att se lite av det jag åstadkommit. \\
+\\
+På Luleå tekniska universitet så har jag ett flertal roller och engagemang utanför min utbildning. Bland annat så jobbar jag som företagskoordinator för Luleå arbetsmarknadsvecka, ett event som drivs av teknologkåren. Jag sitter också som ledamot på våran kårfullmäktige samt som styrelseordförande på LUDD, det akademiska datasamhället på Luleå tekniska universitet. \\
+\\
+Jag jobbar som bäst i en grupp med tydlig kommunikation där jag kan arbeta för att driva eleganta lösningar på problem från koncept till push request. Att varje dag kunna jobba med att lösa problem på olika skalor är vad som har ledigt till att jag har utvecklat mitt intresse för ingenjörsyrket och dem flesta av mina fritidsintressen.\\
+\\
+På fritiden håller jag på med skärmflygning, jag tränar och spelar squash, samt så håller jag ett nära öga på Formula 1 världsmästerskapet.\\
+\\              
+Är ni intresserade kommer jag gärna på en intervju och berättar mer om mig själv.
+\\ 
+\\
+Med vänliga hälsningar, \\
+Rasmus Bengtsson
+}
+
+
+\end{document}
